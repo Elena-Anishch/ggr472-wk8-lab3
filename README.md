@@ -1,3 +1,5 @@
+TO BE VIEWED FULL SCREEN ON LAPTOP.
+
 # Note
 
 Created as part of an excercise for the GGR472 course at the University of Toronto.
