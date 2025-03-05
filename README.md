@@ -1,4 +1,4 @@
-TO BE VIEWED FULL SCREEN ON LAPTOP.
+For best experience of the web page, please view on laptop in full page view.
 
 # Note
 
