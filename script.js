@@ -60,7 +60,9 @@ map.on('load', () => {
                 2.5, '#9B4D00', // Colours assigned to values >= each step
                 5, '#FFA500',
                 7.5, '#FFFF00',
+                55,'#FFA500',
                 90, '#32CD32'
+                
             ],
             'fill-opacity': 0.5,
             'fill-outline-color': 'white'
